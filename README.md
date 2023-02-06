@@ -27,30 +27,30 @@ it takes a few seconds to run all divisions
 
 For each division an .out file will be produced, each containing a histogram:
 
-#Lic    Hours
-01      495.5
-02      1051.1
-03      1802.5
-04      2200.9
-05      2160.7
-06      726.6
-07      209.1
-08      30.4
-09      2.8
-10      0.0
-11      0.0
-12      0.0
-13      0.0
-14      0.0
-15      0.0
-16      0.0
-17      0.0
-18      0.0
-19      0.0
-20      0.0
-21      0.0
-22      0.0
-23      0.0
+	#Lic    Hours
+	01      495.5
+	02      1051.1
+	03      1802.5
+	04      2200.9
+	05      2160.7
+	06      726.6
+	07      209.1
+	08      30.4
+	09      2.8
+	10      0.0
+	11      0.0
+	12      0.0
+	13      0.0
+	14      0.0
+	15      0.0
+	16      0.0
+	17      0.0
+	18      0.0
+	19      0.0
+	20      0.0
+	21      0.0
+	22      0.0
+	23      0.0
 
 In this example, one license was in use for 495.1 hours. Two licenses were in use for 1051.1 hours, and so on.
 
